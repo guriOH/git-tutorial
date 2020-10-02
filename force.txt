@@ -1,8 +1,5 @@
 forgottend file
-<<<<<<< HEAD
 change branch 2
-=======
 aasdasdd
 asdasd
 change branch
->>>>>>> testing
